@@ -1,0 +1,8 @@
+C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/Practicum_1.dir
+C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/Practicum_1_autogen_timestamp_deps.dir
+C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/Practicum_1_autogen.dir
