@@ -9,61 +9,9 @@
 	[
 		"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/CMakeLists.txt",
 		"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qtc/package-manager/auto-setup.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystem.cmake.in",
 		"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeJOMFindMake.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-Determine-CXX.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCompilerIdDetection.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ADSP-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ARMCC-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/ARMClang-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/AppleClang-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Borland-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Cray-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CrayClang-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Embarcadero-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Fujitsu-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GHS-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/HP-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IAR-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Intel-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/MSVC-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/NVHPC-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/NVIDIA-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/OrangeC-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/PGI-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/PathScale-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SCO-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TI-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/TIClang-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Tasking-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/Watcom-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XL-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindBinUtils.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in",
 		"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake",
@@ -77,25 +25,9 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineRCCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCCompiler.cmake.in",
 		"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeRCInformation.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestRCCompiler.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCompilerCommon.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseImplicitIncludeInfo.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseImplicitLinkInfo.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeParseLibraryArchitecture.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeTestCompilerCommon.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeDetermineCompileFeatures.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake",
-		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompiler.cmake.in",
-		"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake",
 		"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"C:/Qt/6.7.2/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
@@ -340,9 +272,63 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/Move.h",
+			"MU",
+			"EWIEGA46WW/moc_Move.cpp",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/Piece.h",
+			"MU",
+			"EWIEGA46WW/moc_Piece.cpp",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/Player.h",
+			"MU",
+			"EWIEGA46WW/moc_Player.cpp",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/Position.h",
+			"MU",
+			"EWIEGA46WW/moc_Position.cpp",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/boat.h",
+			"MU",
+			"EWIEGA46WW/moc_boat.cpp",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/elephant.h",
+			"MU",
+			"EWIEGA46WW/moc_elephant.cpp",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/horse.h",
+			"MU",
+			"EWIEGA46WW/moc_horse.cpp",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/king.h",
+			"MU",
+			"EWIEGA46WW/moc_king.cpp",
+			null
+		],
+		[
 			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/pawn.h",
+			"MU",
+			"EWIEGA46WW/moc_pawn.cpp",
 			null
 		]
 	],
@@ -402,12 +388,57 @@
 	"SOURCES" : 
 	[
 		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/Move.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/Piece.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/Player.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/Position.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/boat.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/elephant.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/horse.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/king.cpp",
+			"MU",
+			null
+		],
+		[
 			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/main.cpp",
 			"MU",
 			null
 		],
 		[
 			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/School/UHasselt/semester_3/OOP/Practicum1_OOP/Practicum_1/pawn.cpp",
 			"MU",
 			null
 		]

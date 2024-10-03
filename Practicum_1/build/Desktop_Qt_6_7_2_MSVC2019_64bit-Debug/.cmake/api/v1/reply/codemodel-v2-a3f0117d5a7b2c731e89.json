@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-60dc784acca9d953dac2.json",
+					"jsonFile" : "directory-.-Debug-0046f74fec9200cde5b2.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Practicum_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Practicum_1-Debug-c10fd2369d05e4c98dd4.json",
+					"jsonFile" : "target-Practicum_1-Debug-644706c270002763896c.json",
 					"name" : "Practicum_1",
 					"projectIndex" : 0
 				},

@@ -125,11 +125,200 @@ CMakeFiles\Practicum_1.dir\mainwindow.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\mainwindow.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\mainwindow.cpp
 <<
 
+CMakeFiles\Practicum_1.dir\Piece.cpp.obj: CMakeFiles\Practicum_1.dir\flags.make
+CMakeFiles\Practicum_1.dir\Piece.cpp.obj: C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Piece.cpp
+CMakeFiles\Practicum_1.dir\Piece.cpp.obj: CMakeFiles\Practicum_1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Practicum_1.dir/Piece.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Practicum_1.dir\Piece.cpp.obj.d --working-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Practicum_1.dir\Piece.cpp.obj /FdCMakeFiles\Practicum_1.dir\ /FS -c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Piece.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Piece.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Practicum_1.dir/Piece.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe > CMakeFiles\Practicum_1.dir\Piece.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Piece.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Piece.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Practicum_1.dir/Piece.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\Piece.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Piece.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Position.cpp.obj: CMakeFiles\Practicum_1.dir\flags.make
+CMakeFiles\Practicum_1.dir\Position.cpp.obj: C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Position.cpp
+CMakeFiles\Practicum_1.dir\Position.cpp.obj: CMakeFiles\Practicum_1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Practicum_1.dir/Position.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Practicum_1.dir\Position.cpp.obj.d --working-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Practicum_1.dir\Position.cpp.obj /FdCMakeFiles\Practicum_1.dir\ /FS -c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Position.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Position.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Practicum_1.dir/Position.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe > CMakeFiles\Practicum_1.dir\Position.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Position.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Position.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Practicum_1.dir/Position.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\Position.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Position.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Player.cpp.obj: CMakeFiles\Practicum_1.dir\flags.make
+CMakeFiles\Practicum_1.dir\Player.cpp.obj: C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Player.cpp
+CMakeFiles\Practicum_1.dir\Player.cpp.obj: CMakeFiles\Practicum_1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Practicum_1.dir/Player.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Practicum_1.dir\Player.cpp.obj.d --working-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Practicum_1.dir\Player.cpp.obj /FdCMakeFiles\Practicum_1.dir\ /FS -c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Player.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Practicum_1.dir/Player.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe > CMakeFiles\Practicum_1.dir\Player.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Player.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Practicum_1.dir/Player.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\Player.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Player.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Move.cpp.obj: CMakeFiles\Practicum_1.dir\flags.make
+CMakeFiles\Practicum_1.dir\Move.cpp.obj: C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Move.cpp
+CMakeFiles\Practicum_1.dir\Move.cpp.obj: CMakeFiles\Practicum_1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Practicum_1.dir/Move.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Practicum_1.dir\Move.cpp.obj.d --working-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Practicum_1.dir\Move.cpp.obj /FdCMakeFiles\Practicum_1.dir\ /FS -c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Move.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Move.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Practicum_1.dir/Move.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe > CMakeFiles\Practicum_1.dir\Move.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Move.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\Move.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Practicum_1.dir/Move.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\Move.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\Move.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\king.cpp.obj: CMakeFiles\Practicum_1.dir\flags.make
+CMakeFiles\Practicum_1.dir\king.cpp.obj: C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\king.cpp
+CMakeFiles\Practicum_1.dir\king.cpp.obj: CMakeFiles\Practicum_1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Practicum_1.dir/king.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Practicum_1.dir\king.cpp.obj.d --working-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Practicum_1.dir\king.cpp.obj /FdCMakeFiles\Practicum_1.dir\ /FS -c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\king.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\king.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Practicum_1.dir/king.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe > CMakeFiles\Practicum_1.dir\king.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\king.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\king.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Practicum_1.dir/king.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\king.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\king.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\elephant.cpp.obj: CMakeFiles\Practicum_1.dir\flags.make
+CMakeFiles\Practicum_1.dir\elephant.cpp.obj: C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\elephant.cpp
+CMakeFiles\Practicum_1.dir\elephant.cpp.obj: CMakeFiles\Practicum_1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Practicum_1.dir/elephant.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Practicum_1.dir\elephant.cpp.obj.d --working-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Practicum_1.dir\elephant.cpp.obj /FdCMakeFiles\Practicum_1.dir\ /FS -c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\elephant.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\elephant.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Practicum_1.dir/elephant.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe > CMakeFiles\Practicum_1.dir\elephant.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\elephant.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\elephant.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Practicum_1.dir/elephant.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\elephant.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\elephant.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\pawn.cpp.obj: CMakeFiles\Practicum_1.dir\flags.make
+CMakeFiles\Practicum_1.dir\pawn.cpp.obj: C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\pawn.cpp
+CMakeFiles\Practicum_1.dir\pawn.cpp.obj: CMakeFiles\Practicum_1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Practicum_1.dir/pawn.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Practicum_1.dir\pawn.cpp.obj.d --working-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Practicum_1.dir\pawn.cpp.obj /FdCMakeFiles\Practicum_1.dir\ /FS -c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\pawn.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\pawn.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Practicum_1.dir/pawn.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe > CMakeFiles\Practicum_1.dir\pawn.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\pawn.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\pawn.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Practicum_1.dir/pawn.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\pawn.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\pawn.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\boat.cpp.obj: CMakeFiles\Practicum_1.dir\flags.make
+CMakeFiles\Practicum_1.dir\boat.cpp.obj: C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\boat.cpp
+CMakeFiles\Practicum_1.dir\boat.cpp.obj: CMakeFiles\Practicum_1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Practicum_1.dir/boat.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Practicum_1.dir\boat.cpp.obj.d --working-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Practicum_1.dir\boat.cpp.obj /FdCMakeFiles\Practicum_1.dir\ /FS -c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\boat.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\boat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Practicum_1.dir/boat.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe > CMakeFiles\Practicum_1.dir\boat.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\boat.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\boat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Practicum_1.dir/boat.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\boat.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\boat.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\horse.cpp.obj: CMakeFiles\Practicum_1.dir\flags.make
+CMakeFiles\Practicum_1.dir\horse.cpp.obj: C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\horse.cpp
+CMakeFiles\Practicum_1.dir\horse.cpp.obj: CMakeFiles\Practicum_1.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Practicum_1.dir/horse.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\Practicum_1.dir\horse.cpp.obj.d --working-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug --filter-prefix="Note: including file: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\Practicum_1.dir\horse.cpp.obj /FdCMakeFiles\Practicum_1.dir\ /FS -c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\horse.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\horse.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Practicum_1.dir/horse.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe > CMakeFiles\Practicum_1.dir\horse.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\horse.cpp
+<<
+
+CMakeFiles\Practicum_1.dir\horse.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Practicum_1.dir/horse.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\HostX64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Practicum_1.dir\horse.cpp.s /c C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\horse.cpp
+<<
+
 # Object files for target Practicum_1
 Practicum_1_OBJECTS = \
 "CMakeFiles\Practicum_1.dir\Practicum_1_autogen\mocs_compilation.cpp.obj" \
 "CMakeFiles\Practicum_1.dir\main.cpp.obj" \
-"CMakeFiles\Practicum_1.dir\mainwindow.cpp.obj"
+"CMakeFiles\Practicum_1.dir\mainwindow.cpp.obj" \
+"CMakeFiles\Practicum_1.dir\Piece.cpp.obj" \
+"CMakeFiles\Practicum_1.dir\Position.cpp.obj" \
+"CMakeFiles\Practicum_1.dir\Player.cpp.obj" \
+"CMakeFiles\Practicum_1.dir\Move.cpp.obj" \
+"CMakeFiles\Practicum_1.dir\king.cpp.obj" \
+"CMakeFiles\Practicum_1.dir\elephant.cpp.obj" \
+"CMakeFiles\Practicum_1.dir\pawn.cpp.obj" \
+"CMakeFiles\Practicum_1.dir\boat.cpp.obj" \
+"CMakeFiles\Practicum_1.dir\horse.cpp.obj"
 
 # External object files for target Practicum_1
 Practicum_1_EXTERNAL_OBJECTS =
@@ -137,13 +326,22 @@ Practicum_1_EXTERNAL_OBJECTS =
 Practicum_1.exe: CMakeFiles\Practicum_1.dir\Practicum_1_autogen\mocs_compilation.cpp.obj
 Practicum_1.exe: CMakeFiles\Practicum_1.dir\main.cpp.obj
 Practicum_1.exe: CMakeFiles\Practicum_1.dir\mainwindow.cpp.obj
+Practicum_1.exe: CMakeFiles\Practicum_1.dir\Piece.cpp.obj
+Practicum_1.exe: CMakeFiles\Practicum_1.dir\Position.cpp.obj
+Practicum_1.exe: CMakeFiles\Practicum_1.dir\Player.cpp.obj
+Practicum_1.exe: CMakeFiles\Practicum_1.dir\Move.cpp.obj
+Practicum_1.exe: CMakeFiles\Practicum_1.dir\king.cpp.obj
+Practicum_1.exe: CMakeFiles\Practicum_1.dir\elephant.cpp.obj
+Practicum_1.exe: CMakeFiles\Practicum_1.dir\pawn.cpp.obj
+Practicum_1.exe: CMakeFiles\Practicum_1.dir\boat.cpp.obj
+Practicum_1.exe: CMakeFiles\Practicum_1.dir\horse.cpp.obj
 Practicum_1.exe: CMakeFiles\Practicum_1.dir\build.make
 Practicum_1.exe: C:\Qt\6.7.2\msvc2019_64\lib\Qt6Widgetsd.lib
 Practicum_1.exe: C:\Qt\6.7.2\msvc2019_64\lib\Qt6Guid.lib
 Practicum_1.exe: C:\Qt\6.7.2\msvc2019_64\lib\Qt6Cored.lib
 Practicum_1.exe: C:\Qt\6.7.2\msvc2019_64\lib\Qt6EntryPointd.lib
 Practicum_1.exe: CMakeFiles\Practicum_1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Practicum_1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable Practicum_1.exe"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\Practicum_1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\Practicum_1.dir\objects1.rsp @<<
  /out:Practicum_1.exe /implib:Practicum_1.lib /pdb:C:\School\UHasselt\semester_3\OOP\Practicum1_OOP\Practicum_1\build\Desktop_Qt_6_7_2_MSVC2019_64bit-Debug\Practicum_1.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:windows  C:\Qt\6.7.2\msvc2019_64\lib\Qt6Widgetsd.lib C:\Qt\6.7.2\msvc2019_64\lib\Qt6Guid.lib C:\Qt\6.7.2\msvc2019_64\lib\Qt6Cored.lib mpr.lib userenv.lib C:\Qt\6.7.2\msvc2019_64\lib\Qt6EntryPointd.lib shell32.lib d3d11.lib dxgi.lib dxguid.lib d3d12.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

@@ -23,6 +23,19 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Practicum_1
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        Piece.cpp
+        Piece.h
+        Position.cpp
+        Position.h
+        Player.cpp
+        Player.h
+        Move.cpp
+        Move.h
+        king.h king.cpp
+        elephant.h elephant.cpp
+        pawn.h pawn.cpp
+        boat.h boat.cpp
+        horse.h horse.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Practicum_1 APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
